@@ -132,3 +132,10 @@
 ### String Algorithms
 - KMP Algorithm
 - Rabin-Karp Algorithm
+
+---
+
+## Credits
+
+Original post by Shivam Anand:  
+https://x.com/who_ShivamAnand/status/2020543795784540609
